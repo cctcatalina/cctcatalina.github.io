@@ -1,0 +1,54 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    color: #212529;
+}
+
+nav{
+    background-color: #28a745;
+    margin-bottom: 2rem;
+}
+
+.navbar-brand img{ 
+    height: 3rem;
+    margin-left: 2rem;
+}
+
+.card-title{
+    font: 300;
+}
+
+.card-text{
+    color: #707070;
+}
+
+.card-link{
+    color: #707070;
+}
+
+.offer-price{
+    color: #28a745;
+    font-weight: 500;
+}
+
+
+.cupons-form{
+    background-color:#28a745;
+    color: #fff;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+legend{
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+    padding-top: 1rem;
+    color: #707070;
+}
+
+footer img{
+    height: 3rem;
+    padding-bottom: 1rem;
+}
