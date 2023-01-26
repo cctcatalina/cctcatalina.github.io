@@ -3,3 +3,13 @@
     width: 100vw;
     z-index: 1;
 }
+
+h1{
+    color: rgb(30, 83, 83);
+}
+
+#hero-section{
+    background-image: url(../img/bgherosection.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
